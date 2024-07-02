@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mq/0rby6nxppAmasKZGAfgfh5PGDa7GRsjHGqCkJg2NX14pQ+uRQjhyQKJwhaS1j6hEObfHBrH15AOxDBoJRqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stjEnes.Curuktas\\Desktop\\JWT\\JWTAuthenticationService\\Helpers\\Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.2\\microsoft.identitymodel.abstractions.7.6.2.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.2\\microsoft.identitymodel.jsonwebtokens.7.6.2.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.2\\microsoft.identitymodel.logging.7.6.2.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.2\\microsoft.identitymodel.tokens.7.6.2.nupkg.sha512",
+    "C:\\Users\\stjEnes.Curuktas\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.2\\system.identitymodel.tokens.jwt.7.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
